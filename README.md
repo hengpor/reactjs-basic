@@ -22,3 +22,9 @@ npm run dev
 for short which is equivalent 
 
 webpack-dev-server --content-base src --inline --hot
+
+## Instruction to run
+1. Navigation to reactjs-basic
+2. *npm install*
+3. *npm run dev*
+4. navigate to location:8080
